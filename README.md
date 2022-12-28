@@ -1,6 +1,6 @@
 # image_crop_from_camera
 
-A new Flutter project.
+Project of Image pick widget building
 
 ## Getting Started
 
